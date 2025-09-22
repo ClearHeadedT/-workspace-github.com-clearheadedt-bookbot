@@ -1,2 +1,2 @@
-# -workspace-github.com-clearheadedt-bookbot
+# Bookbot
 bookbot
